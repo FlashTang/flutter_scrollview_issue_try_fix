@@ -9,7 +9,7 @@ import UIKit
 import Flutter
 class ViewController: UIViewController {
     
-    var flutterViewController:UIViewController!
+    var flutterViewController:MyFlutterViewController!
     var scrollView:MyUIScrollView!
     var contentView:UIView! //container for flutterViewController.view
     
